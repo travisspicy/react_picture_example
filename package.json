@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/travisspicy/react_picture_example/issues"
   },
-  "homepage": "https://github.com/travisspicy/react_picture_example#readme"
+  "homepage": "https://github.com/travisspicy/react_picture_example#readme",
+  "dependencies": {
+    "moment": "2.22.2"
+  }
 }
