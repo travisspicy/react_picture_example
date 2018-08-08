@@ -1,0 +1,22 @@
+{
+  "name": "react_picture_example",
+  "version": "1.0.0",
+  "description": "this is how to put a picture onto a webpage using jsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/travisspicy/react_picture_example.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Tristan Spivey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisspicy/react_picture_example/issues"
+  },
+  "homepage": "https://github.com/travisspicy/react_picture_example#readme"
+}
